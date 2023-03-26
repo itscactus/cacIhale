@@ -1,0 +1,18 @@
+name: Ihale
+version: '${project.version}'
+main: tr.com.itscactus.ihale.Ihale
+api-version: 1.16
+authors: [cactusdev]
+description: ihale eklentisi
+
+commands:
+  ihale:
+    aliases:
+      - ah
+      - auctions
+      - ahouse
+      - auctionh
+      - auctionhouse
+      - açıkarttırma
+      - acikarttirma
+    description: İhale komutu
